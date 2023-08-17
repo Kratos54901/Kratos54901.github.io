@@ -1,3 +1,6 @@
+html,body{
+    background-color: transparent;
+}
 #help_button {
     background-color: #000079;
     color: #fff;
